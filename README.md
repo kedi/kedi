@@ -1,16 +1,15 @@
-## Hi there 👋
+# 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kedi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**kedi/kedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Security Researcher · Developer · Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Focused on web security, OAuth2 misconfigurations, and offensive tooling  
+- Building open-source tools for token attacks and protocol abuse  
+- Active in vulnerability research and bug bounty programs
+
+**Projects**  
+[JWT Attacker](https://github.com/kedi/jwt-attacker)
+
+**Links**  
+[hackerone.com/furkan](https://hackerone.com/furkan) · [bugcrowd.com/fur](https://bugcrowd.com/fur) · [x.com/furkan0x01](https://x.com/furkan0x01) · [furkan@wearehackerone.com](mailto:furkan@wearehackerone.com)
